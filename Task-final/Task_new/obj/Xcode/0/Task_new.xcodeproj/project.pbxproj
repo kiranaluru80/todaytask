@@ -1,0 +1,266 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E0C144A70000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 67E35DE30000000000000000 /* UIKit.framework */; };
+		4EB922750000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D5DB3BB10000000000000000 /* MapKit.framework */; };
+		85B5115C0000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD72A9800000000000000000 /* Foundation.framework */; };
+		BCB100430000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43D3197F0000000000000000 /* CoreGraphics.framework */; };
+		9B69C8780000000000000000 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 228BE1B40000000000000000 /* Assets.xcassets */; };
+		2CA65E3A0000000000000000 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3C877760000000000000000 /* LaunchScreen.storyboard */; };
+		B726A0F80000000000000000 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E48BA340000000000000000 /* Main.storyboard */; };
+		41A6E3B60000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C8C8FCF20000000000000000 /* Info.plist */; };
+		C6B421F90000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4DD63B350000000000000000 /* Entitlements.plist */; };
+		160EBFDE0000000000000000 /* UserDetailsaViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 9D30D91A0000000000000000 /* UserDetailsaViewController.h */; };
+		E86E06A00000000000000000 /* UserDetailsaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 95A8F9A60000000000000000 /* UserDetailsaViewController.m */; };
+		3A0D77400000000000000000 /* CourseDet.h in Sources */ = {isa = PBXBuildFile; fileRef = 8AC2F0B00000000000000000 /* CourseDet.h */; };
+		436DF4580000000000000000 /* CourseDet.m in Sources */ = {isa = PBXBuildFile; fileRef = CA900D940000000000000000 /* CourseDet.m */; };
+		74F6DEC40000000000000000 /* NewTablewViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = FC18F8000000000000000000 /* NewTablewViewController.h */; };
+		56599EDB0000000000000000 /* NewTablewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DD7BB8170000000000000000 /* NewTablewViewController.m */; };
+		261A02F80000000000000000 /* AddNewUserViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = AD3C1C340000000000000000 /* AddNewUserViewController.h */; };
+		104DF10C0000000000000000 /* AddNewUserViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 97700A480000000000000000 /* AddNewUserViewController.m */; };
+		2E1FA4850000000000000000 /* ViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = B541BDC10000000000000000 /* ViewController.h */; };
+		6879BCEE0000000000000000 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF9BD62A0000000000000000 /* ViewController.m */; };
+		74A9146D0000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = FBCB2DA90000000000000000 /* AppDelegate.h */; };
+		B47631510000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B984A8D0000000000000000 /* AppDelegate.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		6B8F51BC0000000000000000 /* Task_new.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Task_new.app"; path = "Task_new.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		67E35DE30000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		D5DB3BB10000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		CD72A9800000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		43D3197F0000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		228BE1B40000000000000000 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "Assets.xcassets"; sourceTree = "<group>"; };
+		B3C877760000000000000000 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "LaunchScreen.storyboard"; path = "LaunchScreen.storyboard"; sourceTree = "<group>"; };
+		3E48BA340000000000000000 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Main.storyboard"; path = "Main.storyboard"; sourceTree = "<group>"; };
+		C8C8FCF20000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		4DD63B350000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
+		9D30D91A0000000000000000 /* UserDetailsaViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UserDetailsaViewController.h"; path = "UserDetailsaViewController.h"; sourceTree = "<group>"; };
+		95A8F9A60000000000000000 /* UserDetailsaViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UserDetailsaViewController.m"; path = "UserDetailsaViewController.m"; sourceTree = "<group>"; };
+		8AC2F0B00000000000000000 /* CourseDet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CourseDet.h"; path = "CourseDet.h"; sourceTree = "<group>"; };
+		CA900D940000000000000000 /* CourseDet.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CourseDet.m"; path = "CourseDet.m"; sourceTree = "<group>"; };
+		FC18F8000000000000000000 /* NewTablewViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "NewTablewViewController.h"; path = "NewTablewViewController.h"; sourceTree = "<group>"; };
+		DD7BB8170000000000000000 /* NewTablewViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "NewTablewViewController.m"; path = "NewTablewViewController.m"; sourceTree = "<group>"; };
+		AD3C1C340000000000000000 /* AddNewUserViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AddNewUserViewController.h"; path = "AddNewUserViewController.h"; sourceTree = "<group>"; };
+		97700A480000000000000000 /* AddNewUserViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AddNewUserViewController.m"; path = "AddNewUserViewController.m"; sourceTree = "<group>"; };
+		B541BDC10000000000000000 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ViewController.h"; path = "ViewController.h"; sourceTree = "<group>"; };
+		EF9BD62A0000000000000000 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ViewController.m"; path = "ViewController.m"; sourceTree = "<group>"; };
+		FBCB2DA90000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		3B984A8D0000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4DBD9E430000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E0C144A70000000000000000 /* UIKit.framework in Frameworks */,
+				4EB922750000000000000000 /* MapKit.framework in Frameworks */,
+				85B5115C0000000000000000 /* Foundation.framework in Frameworks */,
+				BCB100430000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C33D5B850000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				1F92DD590000000000000000 /* Task_new */,
+				1C34B3D70000000000000000 /* Frameworks */,
+				F1681C6F0000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F1681C6F0000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6B8F51BC0000000000000000 /* Task_new.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		1C34B3D70000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				67E35DE30000000000000000 /* UIKit.framework */,
+				D5DB3BB10000000000000000 /* MapKit.framework */,
+				CD72A9800000000000000000 /* Foundation.framework */,
+				43D3197F0000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		1F92DD590000000000000000 /* Task_new */ = {
+			isa = PBXGroup;
+			children = (
+				AD3C1C340000000000000000 /* AddNewUserViewController.h */,
+				FBCB2DA90000000000000000 /* AppDelegate.h */,
+				228BE1B40000000000000000 /* Assets.xcassets */,
+				8AC2F0B00000000000000000 /* CourseDet.h */,
+				4DD63B350000000000000000 /* Entitlements.plist */,
+				C8C8FCF20000000000000000 /* Info.plist */,
+				B3C877760000000000000000 /* LaunchScreen.storyboard */,
+				3E48BA340000000000000000 /* Main.storyboard */,
+				FC18F8000000000000000000 /* NewTablewViewController.h */,
+				9D30D91A0000000000000000 /* UserDetailsaViewController.h */,
+				B541BDC10000000000000000 /* ViewController.h */,
+				CEB9C3860000000000000000 /* Supporting Files */,
+			);
+			name = "Task_new";
+			sourceTree = "<group>";
+		};
+		CEB9C3860000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				97700A480000000000000000 /* AddNewUserViewController.m */,
+				3B984A8D0000000000000000 /* AppDelegate.m */,
+				CA900D940000000000000000 /* CourseDet.m */,
+				DD7BB8170000000000000000 /* NewTablewViewController.m */,
+				95A8F9A60000000000000000 /* UserDetailsaViewController.m */,
+				EF9BD62A0000000000000000 /* ViewController.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		724BA4C00000000000000000 /* Task_new */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4F06ECCC0000000000000000 /* Build configuration list for PBXNativeTarget "Task_new" */;
+			buildPhases = (
+				AA1320170000000000000000 /* Sources */,
+				4DBD9E430000000000000000 /* Frameworks */,
+				B857528F0000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Task_new";
+			productName = "Task_new";
+			productReference = 6B8F51BC0000000000000000 /* Task_new.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3EADDF5B0000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = F60F947A0000000000000000 /* Build configuration list for PBXProject "Task_new" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C33D5B850000000000000000;
+			productRefGroup = F1681C6F0000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				724BA4C00000000000000000 /* Task_new */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B857528F0000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9B69C8780000000000000000 /* Assets.xcassets in Resources */,
+				2CA65E3A0000000000000000 /* LaunchScreen.storyboard in Resources */,
+				B726A0F80000000000000000 /* Main.storyboard in Resources */,
+				41A6E3B60000000000000000 /* Info.plist in Resources */,
+				C6B421F90000000000000000 /* Entitlements.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AA1320170000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				160EBFDE0000000000000000 /* UserDetailsaViewController.h in Sources */,
+				E86E06A00000000000000000 /* UserDetailsaViewController.m in Sources */,
+				3A0D77400000000000000000 /* CourseDet.h in Sources */,
+				436DF4580000000000000000 /* CourseDet.m in Sources */,
+				74F6DEC40000000000000000 /* NewTablewViewController.h in Sources */,
+				56599EDB0000000000000000 /* NewTablewViewController.m in Sources */,
+				261A02F80000000000000000 /* AddNewUserViewController.h in Sources */,
+				104DF10C0000000000000000 /* AddNewUserViewController.m in Sources */,
+				2E1FA4850000000000000000 /* ViewController.h in Sources */,
+				6879BCEE0000000000000000 /* ViewController.m in Sources */,
+				74A9146D0000000000000000 /* AppDelegate.h in Sources */,
+				B47631510000000000000000 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CB42FD120000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		243A55640000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "Task_new";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F60F947A0000000000000000 /* Build configuration list for PBXProject "Task_new" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CB42FD120000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		4F06ECCC0000000000000000 /* Build configuration list for PBXNativeTarget "Task_new" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				243A55640000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3EADDF5B0000000000000000 /* Project object */;
+}

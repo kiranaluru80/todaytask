@@ -1,0 +1,12 @@
+/Users/ravikiranreddy/Downloads/Task_new/Task_new/bin/iPhoneSimulator/Debug/Task_new.exe
+/Users/ravikiranreddy/Downloads/Task_new/Task_new/bin/iPhoneSimulator/Debug/Task_new.pdb
+/Users/ravikiranreddy/Downloads/Task_new/Task_new/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/ravikiranreddy/Downloads/Task_new/Task_new/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/ravikiranreddy/Downloads/Task_new/Task_new/obj/iPhoneSimulator/Debug/Task_new.csprojResolveAssemblyReference.cache
+/Users/ravikiranreddy/Downloads/Task_new/Task_new/obj/iPhoneSimulator/Debug/Task_new.csproj.CoreCompileInputs.cache
+/Users/ravikiranreddy/Downloads/Task_new/Task_new/obj/iPhoneSimulator/Debug/Task_new.exe
+/Users/ravikiranreddy/Downloads/Task_new/Task_new/obj/iPhoneSimulator/Debug/Task_new.pdb
+/Users/ravikiranreddy/Downloads/Task_new/Task_new/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/ravikiranreddy/Downloads/Task_new/Task_new/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/ravikiranreddy/Downloads/Task_new/Task_new/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/ravikiranreddy/Downloads/Task_new/Task_new/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
